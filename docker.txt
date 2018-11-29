@@ -1,0 +1,21 @@
+Steps to set up private registry
+
+SSH into your local docker VM.
+note: if 'default' is not the name of your docker machine then substitute 'default' with your docker machine name
+$ docker-machine ssh default
+
+Open Docker profile
+$ sudo vi /var/lib/boot2docker/profile
+
+Add this line to the bottom of the profile file. If EXTRA_ARGS already exists, add the insecure registry flag to the EXTRA_ARGS. Substitute in the path[s] to your registries.
+
+EXTRA_ARGS="
+--insecure-registry myserver.pathTo.registry1:5000
+--insecure-registry myserver.pathTo.registry2:5000
+--insecure-registry myserver.pathTo.registry3:5000
+"
+
+Save the profile changes and 'exit' out of the docker-machine bash back to your machine. Then Restart Docker VM substituting in your docker-machine name
+$ docker-machine restart {machineName}
+
+Pull or push something from your registry to ensure it works

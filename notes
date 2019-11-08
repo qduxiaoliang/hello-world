@@ -1,0 +1,92 @@
+Professional Summary: 
+Widely qualified and highly skilled Software Developer with 13+ years of development experience in corporate IT work. Developed many various types of applications in most popular and highly demanded programming languages. Easily able to work full time in enterprise environments, banks, software corporations. Professional who is devoted to developing the applications which bring the highest income for their owners.
+
+Skills: 
+•	On-time delivery of high-quality and high-value products. 
+•	Development of applications in Java 8, Spring Boot, Spring Batch, J2EE, Hibernate.
+•	Front-end development in JavaScript, jQuery, EXT.JS, Dojo, HTML, CSS.
+•	Database development in Oracle DB, SQL, PL/SQL, Microsoft SQL Server.
+•	Automated unit and integration testing in Junit, Groovy/Stock
+•	UNIX shell and Windows PowerShell scripting.
+
+Professional Experience: 
+
+
+Senior Software Developer 
+
+•	Developing multi-tier Collateral Hub in Spring Boot, Spring Batch, Java 8, JPA/Hibernate, REST API, YML, Oracle 12, PLSQL, Unix Redhat. Test coverage with JUnit, Groovy/Spock.
+•	Responsible for parsing of datafiles of 1GB+ size via Sax parser and FlatFileItemReader.
+•	Onboarded multiple data providers such as Murex, BNYM, ADP, FOS, MTS, G1, XColl, FX rates via flat/XML SOD/EOD files and daily generation of the inventory report for US regulator depending on the settlement status, legal entity, book, counterparty and security instrument. 
+•	The application was integrated with the reference data provider via HTTPS and CAS-authorization process.
+•	Developed the intraday trades processing including government bonds, credit bonds, outright trades, future and settled trades, cash trades, repos, OTC trades, SLR trades and financial allocators via Tibco EMS messages and REST API reports working in Google Guice.
+•	Developed the tool for reconciliation of trades across multiple applications within the bank.
+•	Responsible for the mapping files of new data providers, AutoSys jobs, Unix shell scripts.
+•	Migrated of applications to a new release deployment system using Puppet modules.
+•	Automated the deployment for CI purposes.
+•	Developed of production environment simulator for regression testing purposes.
+
+
+Java Software Developer
+
+•	Developed the billing system and subscription management for multimedia content provider in Oracle DBMS, PLSQL.
+•	Developed of enterprise applications - the services of content provider working on EJB3, Glassfish AS, OpenMQ JMS, HTTPS-based requests.
+•	Developed the instances of ESME client with SMSC emulator on J2SE, JDBC, Berkeley DB, JMS to send/receive text messages and testing purposes.
+•	Designed and implemented of LBS for Beeline, integration with similar services of MTS and Megaphone mobile network providers via HTTPS.
+•	Designed and implemented the eBook service for Beeline customers via HTTPS, Oracle, REST API based on the integrated LitRes eBook library service.
+•	Integrated video streaming service with the billing system and CMS Wings.
+
+
+Software Developer
+July 2010 – December 2011
+•	Designed and developed PCI-DSS compliant money transfer system on OpenCMS, jQuery, Dojo, EXT.JS, HTML, CSS, JSP, Struts 2, JAXB, SOAP web service via JAXWS 2.2 Metro libraries.
+•	Integrated e-commerce payment providers such as: KreditPilot, Cyberplat, Beeline wallet via HTTPS.
+•	Connected the system with the card processing: United Card Services, Asian-Pacific Bank, Barclays via OpenWay protocol connection to the pool of virtual POS terminals.
+•	Implemented the processing of property tax bills by Federal Tax Service of Russian Federation.
+•	Developed the enterprise applications for the money transfer system working on EJB2, Oracle Database, and JBoss 4 Application server.
+•	Upgraded the applications from JBoss4 to JBoss5 AS.
+•	Included Raiffeisenbank money transfer system via secured proprietary library accepting encoded files.
+•	Implemented the integration with a newer API version of Contact money transfer system - Contact NG via secured signed XML/HTTPS-based API.
+•	Included Unistream money transfer system of Uniastrum bank via WCF SOAP-based web services and Axis2 libraries.
+•	Developed the Android app for the money transfer and payments system.
+
+
+Lead Java Developer
+
+•	Continued the development of the platform initially launched in Inpas Company.
+•	Developed the customized Java Swing components based on JButton, JTextArea, JTextField, JPanel to be used in the developed applications.
+•	Performed the integration with the money transfer system Contact of the commercial bank Russlavbank via JNI technology under Windows Embedded.
+•	Implemented a lexical analysis algorithm implementation for the context search.
+•	Implemented a license protection algorithm, digital signature for the applications developed on the platform.
+•	The kiosk application developed on the platform using a proprietary scripting language. The application accepted cash bills and performed money transfers.
+
+
+Java Developer 
+
+•	Developed the platform for application development in J2SE, Java Swing, simplified XML.
+•	Developed the CRM system for commercial banks Kuban Kredit, Universal Finances. 
+•	Connected the kiosk devices like thermal printer, MEI bill acceptor, Sankyo card reader via JNI.
+
+
+Java Developer 
+
+•	The customized modules developed for Actis WebBuilder CMS platform which actively used XML/XSLT transformation to represent the dynamically generated content of websites. 
+•	The platform was running in Resin/Tomcat servlet container, used JavaScript for UI and proprietary ORM API.
+•	Information about branch locations imported for Russian Standard Bank customers site: XML parsed, data uploaded into Microsoft SQL server database.
+•	A flight booking system developed for the company Continent Express via SOAP, Axis, WSDL. The web site used the integration with Amadeus reservation system.
+•	PayPal was connected to the website of a stock forecast company ForecastMill via HTTPS.
+•	Customer’s data synchronized for a loyalty program called Malina via Oracle database and SOAP Web services.
+•	Flight schedule procedure was introduced at Vnukovo airport (VKO) official website via XML and JavaScript.
+•	Email newsletters for lottery participants on the official BMW website were sent SMPP with KOI-8 encoding.
+
+
+Software Engineer
+
+•	Developed API to draw objects of a military strategic situation such as air defense, radar, front and border lines using spline curves and geometric algorithms on a digital map via GDI plus under Windows in Borland C ++.
+•	Developed an I/O driver of a storage device for military aircrafts in Windows DDK under Windows NT and GNU C under Ubuntu Linux. The device was working via LTP port.
+•	Developed the application for uploading a flight mission to the storage device in Java Swing.
+
+
+
+
+
+
